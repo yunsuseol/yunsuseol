@@ -1,6 +1,6 @@
 # 데이터 분석 입문 기록 🌱
 
-<img src="./data-sprout.png" alt="노트북으로 주가 그래프를 보는 새싹" width="170">
+<img src="https://raw.githubusercontent.com/yunsuseol/yunsuseol/main/data-sprout.png.png" alt="노트북으로 주가 그래프를 보는 새싹" width="170">
 
 코딩을 시작한 지 얼마 되지 않은 데이터 분석 입문자입니다.
 Python과 통계 기초를 배우고 있으며, 실습하면서 이해한 내용과 막혔던 부분을 이곳에 기록합니다.
